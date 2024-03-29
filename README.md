@@ -1,4 +1,4 @@
-The ShoppingListApp is a straightforward, easy to use console application designed to manage your grocery shopping list efficiently. Built with C# and leveraging Entity Framework Core for data management, this application offers a simple yet effective way to keep track of your shopping needs using a SQLite database for storage.
+The ShoppingListApp is a straightforward, easy to use console application designed to manage your grocery shopping list efficiently. Built with C# and utilizing Entity Framework Core for data management, this application offers a simple yet effective way to keep track of your shopping needs using a SQLite database for storage.
 
 
 Features include: 
